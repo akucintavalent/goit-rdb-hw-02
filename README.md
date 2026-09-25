@@ -81,7 +81,7 @@ AND (
 
 ```text
 goit-rdb-hw-02/
-├── goit_rdb_hw_02.ipynb
+├── goit_rdb_hw.ipynb
 ├── ER-diagram.png
 └── README.md
 ```
